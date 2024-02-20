@@ -12,4 +12,3 @@ Desktop
 ## Tecnologias utilizadas 👨‍💻
 - HTML
 - CSS
-- JAVA SCRIPT
